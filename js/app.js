@@ -1,0 +1,1 @@
+$('.firm-slider').slick();
